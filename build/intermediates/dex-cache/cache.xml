@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/dennis/.android/build-cache/4d9534aac7d7f21ae30e940cc5a4ede130c38a04/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/dennis/StudioProjects/ud839_Miwok/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_9b9c2c6b88499fbf57c483a7a0a0c0b97a67d0e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dennis/.android/build-cache/ffeac7bf23213a231a343ac1b53f2658b701dd74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/dennis/StudioProjects/ud839_Miwok/app/build/intermediates/pre-dexed/debug/classes_122e49fc822af4d9abe2dd7a071ec95f7fcf175f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dennis/.android/build-cache/9bd36e61c1c45b551028933549478ddd110e0ffc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/dennis/StudioProjects/ud839_Miwok/app/build/intermediates/pre-dexed/debug/classes_cc02932d04f001e9a55a3b42847628f3d247c9dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dennis/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/dennis/StudioProjects/ud839_Miwok/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_b5c578259e1429911f774d1a5d0ef1a650f94a58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dennis/.android/build-cache/a816c3f78ec807b4d264e70f7ae9053e49c77e2f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/dennis/StudioProjects/ud839_Miwok/app/build/intermediates/pre-dexed/debug/classes_c194492f3b53df23fcdc282ab0e69609babf05d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dennis/.android/build-cache/23ca8cf0876f4fcaf67c2c323d18afbea8590136/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/dennis/StudioProjects/ud839_Miwok/app/build/intermediates/pre-dexed/debug/classes_a2fa27f66278f447946700f9bb1f50e9ceeaa9d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dennis/.android/build-cache/718d58d1095df475319f185bd907ee65044b084d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/dennis/StudioProjects/ud839_Miwok/app/build/intermediates/pre-dexed/debug/classes_51b0c7ca26245f57c523f0bb2674c83e769626e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dennis/.android/build-cache/4d9534aac7d7f21ae30e940cc5a4ede130c38a04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/dennis/StudioProjects/ud839_Miwok/app/build/intermediates/pre-dexed/debug/classes_931d01d15035cb578f0fcf430524c597f3d55134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dennis/.android/build-cache/70a1beb5af79daa80623e3c292f8509c170ebe16/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/dennis/StudioProjects/ud839_Miwok/app/build/intermediates/pre-dexed/debug/classes_15d47d7d701d62616fa8c84073fcdf613735afa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dennis/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/dennis/StudioProjects/ud839_Miwok/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_c262ffeff334d2d4bc2642351aa8e7674a51d7ec.jar" />
+    </item>
+
+</items>
